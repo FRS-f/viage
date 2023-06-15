@@ -1,0 +1,41 @@
+h1{text-align: center; }
+h2{text-align: center; color: blue;}
+h2{-webkit-text-stroke: 0.5px rgb(0, 0, 0); } 
+
+   
+   p {
+background-color:#f0f0f0;
+color:#000;
+}
+body {
+    background-image: url(https://s1.eestatic.com/2020/06/03/curiosidades/curiosidades_494961313_153077109_1024x576.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #000;}
+    h2 {
+        color: black;
+    }
+h2{background-color: rgb(219, 219, 107);
+    color: black;
+    border: 6px solid rgb(222, 108, 22);
+    height: 200px;
+   
+    
+ 
+    
+ 
+    }
+   .k1{background-color: rgb(219, 219, 107);
+        color: black;
+        border: 6px solid rgb(222, 108, 22);
+        height: 400px;}
+        
+        .h9{background-color: rgb(219, 219, 107);
+            color: black;
+           ;
+            height: 50px;}
+           .l0 {background-color: rgb(219, 219, 107);
+            color: black;
+           ;
+            height: 50px;}
